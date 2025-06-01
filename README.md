@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatiasVieitez a Software engineer based in Buenos Aires - Argentina.
-- 👀 I have been training and developing myself as a FullStack
-- 🌱 I’m currently working with Java springboot and react applications.
+- 👀 I am a Backend developer with strong experience in Java springboot and Python 
+- 🌱 I’m currently working with AI,LLms and ML.
 
